@@ -1,6 +1,6 @@
 ## My projects
 
-### 🖥 [Word Wrap Checker Extension](https://chrome.google.com/webstore/detail/floc/gjkiifeaanbafelffgfpdkhbcekmlcad?utm_source=chrome-ntp-icon)
+### 🖥 [Word Wrap Checker](https://chrome.google.com/webstore/detail/floc/gjkiifeaanbafelffgfpdkhbcekmlcad?utm_source=chrome-ntp-icon)
 
 This Google Chrome extension will help you test layouts and identify defects associated with long words, phrases, and large images.
 
