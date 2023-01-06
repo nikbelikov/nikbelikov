@@ -4,10 +4,6 @@
 
 This Google Chrome extension will help you test layouts and identify defects associated with long words, phrases, and large images.
 
-### 🚢 [TSP Solver](https://www.npmjs.com/package/@nikbelikov/tsp-solver)
-
-This npm-package will help you solve the Traveling Salesman Problem.
-
 ### 🎥 [YouTube](https://www.youtube.com/@nikbelikov)
 
 The channel is used to host my guitar cover versions.
